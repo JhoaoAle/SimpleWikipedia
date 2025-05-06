@@ -1,0 +1,18 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore environment files
+.env
+.venv/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Anaconda environment folder if you accidentally create one inside
+env/
